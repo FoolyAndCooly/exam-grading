@@ -226,4 +226,3 @@ const PRE_INIT_MSG: &str = r"
 
 The `exercises/` directory couldn't be found in the current directory.
 If you are just starting with Rustlings, run the command `rustlings init` to initialize it.";
-
